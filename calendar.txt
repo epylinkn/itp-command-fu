@@ -1,0 +1,2188 @@
+[
+  {
+    "title": "Camp Orientation!",
+    "tags": [
+      "#ALLCAMP",
+      "#party",
+      "#fun",
+      "#food",
+      "#orientation",
+      "#prototyping"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Getting Started With Ultimaker 2+ Desktop 3D Printer",
+    "tags": [
+      "#3dprinting",
+      "#3dp",
+      "#tools"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Radical Ethnography for Social Networks! ",
+    "tags": [
+      "#harassment",
+      "#social media",
+      "#ethnography",
+      "#research",
+      "#ux",
+      "#politics",
+      "#campaigns"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Photoshop Fun & Digital Art Break",
+    "tags": [
+      "#photoshop",
+      "#digital",
+      "#art",
+      "#photo editing"
+    ]
+  },
+  {
+    "title": "#NeverTrump: Amplify our Voices!",
+    "tags": [
+      "#socialmedia",
+      "#Trump",
+      "#agitprop"
+    ]
+  },
+  {
+    "title": "A Crash Course in Game Design",
+    "tags": [
+      "##game design #analog #theory #practice"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "The current landscape of UX prototyping tools",
+    "tags": [
+      "#UX",
+      "#Sketch",
+      "#Craft",
+      "#Invision",
+      "#FramerJS",
+      "#Principle",
+      "#Axure",
+      "#Bootstrap",
+      "#Foundation",
+      "#Adobe XD"
+    ]
+  },
+  {
+    "title": "Being There: Prototyping VR with 360 Video",
+    "tags": [
+      "##vr #360 #virtual reality"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "ALL CAMP: Friday Fireside / SHOW ONE THING SHOW!",
+    "tags": []
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Fundamental Pop-Up Paper Engineering",
+    "tags": [
+      "#Pop-Up Art"
+    ]
+  },
+  {
+    "title": "New Media and Story Development",
+    "tags": [
+      "#new media",
+      "#interactive",
+      "#interactive media",
+      "#dramaturgy",
+      "#theatre",
+      "#dance",
+      "#music",
+      "#performance",
+      "#design thinking",
+      "#product design",
+      "#app design",
+      "#itp",
+      "#code",
+      "#hack",
+      "#development"
+    ]
+  },
+  {
+    "title": "The Neural Aesthetic",
+    "tags": [
+      "#machine learning"
+    ]
+  },
+  {
+    "title": "Tools for Impossible Ideas: Approaching Civic Freedom through Public Art",
+    "tags": [
+      "#public art",
+      "#methodology",
+      "#strategy",
+      "#interaction",
+      "#interface"
+    ]
+  },
+  {
+    "title": "Git Involved",
+    "tags": [
+      "#git",
+      "#github",
+      "#social",
+      "#coding",
+      "#programming"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Open Source Cellular Networks:  with Rhizomatica (Oaxaca, Mexico) and SayCel (Nicaragua)",
+    "tags": [
+      "#Open Source GSM",
+      "#Networking",
+      "#Social Entreprenuership"
+    ]
+  },
+  {
+    "title": "Getting Started With Ultimaker 2+ Desktop 3D Printer",
+    "tags": [
+      "#3dprinting",
+      "#3dp",
+      "#tools"
+    ]
+  },
+  {
+    "title": "Twitter Maps and Twitter Bots",
+    "tags": [
+      "#Twitter",
+      "#Node",
+      "#Express",
+      "#Web Sockets",
+      "#code"
+    ]
+  },
+  {
+    "title": "Creative Text Manipulation with Python",
+    "tags": [
+      "#nlp",
+      "#code",
+      "#python",
+      "#natural language processing",
+      "#programming",
+      "#bots",
+      "#language",
+      "#text"
+    ]
+  },
+  {
+    "title": "Soft Lab Intro",
+    "tags": [
+      "#soft lab",
+      "#sewing",
+      "#soft fabrication",
+      "#wearables"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "GROUP DISCUSSION: Pump Up Your Proposal - Strategies for Successful Proposal Writing",
+    "tags": []
+  },
+  {
+    "title": "What the hell is VR ... and Why?",
+    "tags": [
+      "#Virtual Reality",
+      "#360 cinema",
+      "#Unity"
+    ]
+  },
+  {
+    "title": "Lasercutting 101",
+    "tags": [
+      "#laser",
+      "#physical",
+      "#fabrication",
+      "#lasercutting",
+      "#etching",
+      "#epilog"
+    ]
+  },
+  {
+    "title": "Create a Web-Based Game with the p5JS Play Library",
+    "tags": [
+      "#web",
+      "#javascript",
+      "#p5",
+      "#games"
+    ]
+  },
+  {
+    "title": "CANCELED:  Open Source GSM Workshop with Rhizomatica (Mexico) and Rafael Diniz (FreeRadio Brazil)",
+    "tags": [
+      "#GSM",
+      "#Open Source"
+    ]
+  },
+  {
+    "title": "Lunchtime life sketching",
+    "tags": [
+      "#drawing"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "CAD/CAM Software for OSX - Fresh Beginner to Intermediate",
+    "tags": [
+      "#cad",
+      "#fabrication",
+      "#how-to",
+      "#laser cutter",
+      "#3d Printer",
+      "#osx"
+    ]
+  },
+  {
+    "title": "Soft Lab Intro",
+    "tags": [
+      "#soft lab",
+      "#sewing",
+      "#soft fabrication",
+      "#wearables"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "3D Printing Studio tour",
+    "tags": [
+      "#3DPrinting",
+      "#NYU",
+      "#LGS"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Desktop 3D Printer Basic Training (Ultimaker 2+ and Beyond)",
+    "tags": [
+      "#3dprinting",
+      "#3dp",
+      "#tools"
+    ]
+  },
+  {
+    "title": "Zap: Understand electricity better by generating it",
+    "tags": [
+      "#Energy",
+      "#electricity"
+    ]
+  },
+  {
+    "title": "Open Video Collective: Hacking Election 2016 (meets Mondays)",
+    "tags": [
+      "#video",
+      "#remix",
+      "#election",
+      "#politics",
+      "#television",
+      "#archives",
+      "#memes",
+      "#viral media",
+      "#media literacy",
+      "#supercuts",
+      "#popcorn.js",
+      "#videogrep",
+      "#captions",
+      "#debates",
+      "#presidential debates"
+    ]
+  },
+  {
+    "title": "Making a simple VR app with Unity ",
+    "tags": [
+      "#VR",
+      "#cardboard",
+      "#Unity"
+    ]
+  },
+  {
+    "title": "Optical systems for new media tinkerers",
+    "tags": [
+      "#optics",
+      "#optical",
+      "#opart",
+      "#physics",
+      "#craft",
+      "#systems",
+      "#light",
+      "#lenses",
+      "#lens"
+    ]
+  },
+  {
+    "title": "Meet the Flintstones ",
+    "tags": [
+      "#interface",
+      "#history",
+      "#body",
+      "#interaction"
+    ]
+  },
+  {
+    "title": "Intro to Python",
+    "tags": [
+      "#code",
+      "#python",
+      "#data"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Karaoke Field Trip to Arlene's Grocery",
+    "tags": [
+      "#karaoke",
+      "#field",
+      "#ITPNightsss"
+    ]
+  },
+  {
+    "title": "Introduction to the Multimeter",
+    "tags": [
+      "#electronics",
+      "#shop",
+      "#tools",
+      "#test equipment",
+      "#arduino",
+      "#citrus power"
+    ]
+  },
+  {
+    "title": "Fundamental Pop-Up Paper Engineering [rerun]",
+    "tags": []
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Open Source Weaving",
+    "tags": [
+      "#weaving",
+      "#craft",
+      "#open source"
+    ]
+  },
+  {
+    "title": "Real Time Collaborative Web Experiences with Socket.io and p5JS",
+    "tags": [
+      "#web",
+      "#nodejs",
+      "#socketio",
+      "#p5js"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Portable Prototypes in VR",
+    "tags": [
+      "#cardboard",
+      "#unity",
+      "#android",
+      "#virtual reality",
+      "#code"
+    ]
+  },
+  {
+    "title": "Speechless",
+    "tags": [
+      "#communication",
+      "#interface",
+      "#code",
+      "#experiment"
+    ]
+  },
+  {
+    "title": "How to Make A Selfie Drawing in Augmented Reality",
+    "tags": [
+      "##selfiedrawings #digitaldrawing #animatedgifs #4Kvideo #augmentedreality #whatisaselfie"
+    ]
+  },
+  {
+    "title": "Beginning Arduino Part 1",
+    "tags": [
+      "#Arduino",
+      "#electronics",
+      "#physical computing"
+    ]
+  },
+  {
+    "title": "Super Suits: Utility Belts and Gadgets",
+    "tags": []
+  },
+  {
+    "title": "Lasercutting 101",
+    "tags": [
+      "#laser",
+      "#physical",
+      "#fabrication",
+      "#lasercutting",
+      "#etching",
+      "#epilog"
+    ]
+  },
+  {
+    "title": "Intro to Processing / Java-Based Creative Coding",
+    "tags": [
+      "#processing",
+      "#java",
+      "#programming",
+      "#code",
+      "#creative coding",
+      "#visual",
+      "#text",
+      "#image"
+    ]
+  },
+  {
+    "title": "3D Printing Studio Tour",
+    "tags": [
+      "#3DPrinting",
+      "#NYU",
+      "#LGS"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Digital Shoplifting :: From the Screen to Your Hands",
+    "tags": [
+      "#rhino",
+      "#3d printing",
+      "#laser cutting",
+      "#laser",
+      "#3d",
+      "#illustrator",
+      "#rapid",
+      "#prototyping",
+      "#meshmixer",
+      "#cad",
+      "#digital",
+      "#shoplifting"
+    ]
+  },
+  {
+    "title": "JavaScript 101 with p5.js",
+    "tags": [
+      "#programming",
+      "#javascript",
+      "#web"
+    ]
+  },
+  {
+    "title": "venture to the future of fashion @ Boston Museum of Fine Arts",
+    "tags": [
+      "#\\'technology\\'. \\'design. \\'talk\\'"
+    ]
+  },
+  {
+    "title": "360 Virtual Reality Video Production",
+    "tags": [
+      "#virtual reality",
+      "#vr",
+      "#video",
+      "#360"
+    ]
+  },
+  {
+    "title": "Git it Together: An Intro to Git",
+    "tags": [
+      "#git",
+      "#code",
+      "#terminal"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Sketching plants in the park",
+    "tags": [
+      "#drawing"
+    ]
+  },
+  {
+    "title": "Intro To Data Analysis Using Python and Pandas",
+    "tags": [
+      "##python #pandas #data #code #programming"
+    ]
+  },
+  {
+    "title": "Mobile Health Apps: User-Centered Design",
+    "tags": [
+      "##user experience",
+      "##user interface",
+      "## prototyping #concept validation"
+    ]
+  },
+  {
+    "title": "Eagle CAD 101",
+    "tags": []
+  },
+  {
+    "title": "Intro to Unity3D for Non Gamers",
+    "tags": [
+      "#unity3D",
+      "#games",
+      "#apps"
+    ]
+  },
+  {
+    "title": "Understanding Diabetes",
+    "tags": [
+      "#diabetes technology healthcare community"
+    ]
+  },
+  {
+    "title": "Understanding the Internet",
+    "tags": [
+      "#networks"
+    ]
+  },
+  {
+    "title": "Introduction to Microcontrollers: ESP8266",
+    "tags": [
+      "##microcontrollers #sensors #code #hardware"
+    ]
+  },
+  {
+    "title": "The Storytelling Language of Moving Images",
+    "tags": [
+      "#video",
+      "#film",
+      "#cinema",
+      "#documentation",
+      "#camera"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Sensuous Cities: IOT, Blockchain Smart Contracts & Citizen Science Tools & Strategies ",
+    "tags": [
+      "#IOT",
+      "#Blockchain",
+      "#Smart Cities",
+      "#Environmental Monitoring",
+      "#Ethereum",
+      "#Solidity",
+      "#Smart Contracts",
+      "#Agency",
+      "#Reflexivity"
+    ]
+  },
+  {
+    "title": "Video Mapping a Big Ass Building Part 1",
+    "tags": [
+      "#video mapping",
+      "#projection"
+    ]
+  },
+  {
+    "title": "Electronics 101",
+    "tags": [
+      "#Electronics",
+      "#Basic"
+    ]
+  },
+  {
+    "title": "Leather Craft Basics",
+    "tags": [
+      "#leather",
+      "#craft"
+    ]
+  },
+  {
+    "title": "Multispecies robotic friendships",
+    "tags": [
+      "#robots",
+      "#architecture",
+      "#fabrication",
+      "#wall climbers",
+      "#robot arms",
+      "#robot friends",
+      "#collaboration",
+      "#multispecies"
+    ]
+  },
+  {
+    "title": "Intro to Sound Design/Engineering",
+    "tags": [
+      "#sound",
+      "#music",
+      "#sound engineering",
+      "#logic",
+      "#ableton",
+      "#max"
+    ]
+  },
+  {
+    "title": "Shine: Meet some solar panels",
+    "tags": [
+      "#energy",
+      "#electricity"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "ALL CAMP: Friday Fireside",
+    "tags": [
+      "#AssistiveTech",
+      "#Disabilities",
+      "#Making"
+    ]
+  },
+  {
+    "title": "Will it Blend? Solving social problems through Game Design, a Playcentric approach.",
+    "tags": [
+      "#social design",
+      "#game design",
+      "#game dev",
+      "#paper prototyping",
+      "#digital prototyping",
+      "#art direction",
+      "#movement",
+      "#dance",
+      "#sound design",
+      "#architecture",
+      "#education"
+    ]
+  },
+  {
+    "title": "Lenticular Images–3D & Animation on the Printed Page",
+    "tags": [
+      "#photography",
+      "#animation",
+      "#lenticular",
+      "#optics",
+      "#3D",
+      "#glasses free 3D"
+    ]
+  },
+  {
+    "title": "Photogrammetry ... & the future of how we model the word ",
+    "tags": [
+      "#photogrammetry",
+      "#3D Modeling"
+    ]
+  },
+  {
+    "title": "Intro to the Command Line",
+    "tags": []
+  },
+  {
+    "title": "Make Your Imagination Glow-sew electronics ",
+    "tags": [
+      "#\\'code\\'",
+      "#\\'design\\'",
+      "#\\'art\\';tech\\'"
+    ]
+  },
+  {
+    "title": "Introduction to Creative Coding with p5.js",
+    "tags": [
+      "#code",
+      "#creative code",
+      "#processing",
+      "#javascript",
+      "#web"
+    ]
+  },
+  {
+    "title": "Using OpenGL in Max",
+    "tags": [
+      "#max",
+      "#msp",
+      "#jitter",
+      "#openGL",
+      "#realtime",
+      "#generative"
+    ]
+  },
+  {
+    "title": "Effective Strategies for Dropping Out (or Career Transition for Professionals)",
+    "tags": []
+  },
+  {
+    "title": "Field Trip: Material Connexion - SECTION CLOSED",
+    "tags": [
+      "#Field",
+      "#MaterialConnexion",
+      "#materials",
+      "#library"
+    ]
+  },
+  {
+    "title": "3D Paper Fab",
+    "tags": [
+      "#fabrication",
+      "#paper",
+      "#3D",
+      "#pepakura",
+      "#rhino",
+      "#design",
+      "#materials",
+      "#objects"
+    ]
+  },
+  {
+    "title": "IoT with ESP8266 and NodeMCU",
+    "tags": [
+      "##microcontrollers #sensors #code #hardware"
+    ]
+  },
+  {
+    "title": "Open Video Collective: Hacking Election 2016 (meets Mondays)",
+    "tags": [
+      "#video",
+      "#remix",
+      "#election",
+      "#politics",
+      "#television",
+      "#archives",
+      "#memes",
+      "#viral media",
+      "#media literacy",
+      "#supercuts",
+      "#popcorn.js",
+      "#videogrep",
+      "#captions",
+      "#debates",
+      "#presidential debates"
+    ]
+  },
+  {
+    "title": "Clock Club",
+    "tags": [
+      "#clocks",
+      "#time",
+      "#electronics",
+      "#mechanics"
+    ]
+  },
+  {
+    "title": "3D Scanning for VR",
+    "tags": [
+      "#photogrammetry",
+      "#VR",
+      "#3D modeling"
+    ]
+  },
+  {
+    "title": "Shop Safety! MANDATORY!",
+    "tags": [
+      "#safety",
+      "#shop",
+      "#fabrication",
+      "#mandatory"
+    ]
+  },
+  {
+    "title": "Anyone can make comics",
+    "tags": [
+      "#comics sequential art storytelling"
+    ]
+  },
+  {
+    "title": "Photographic Thinking",
+    "tags": [
+      "#photography",
+      "#phonetography",
+      "#video",
+      "#virtual reality",
+      "#2D",
+      "#3D",
+      "#2-1/2D",
+      "#360",
+      "#space + time",
+      "#creative coding",
+      "#critique"
+    ]
+  },
+  {
+    "title": "Applied Research of Open Experience Design ",
+    "tags": [
+      "#open innovation",
+      "#open source",
+      "#experience",
+      "#design",
+      "#experience design",
+      "#architecture",
+      "#installations",
+      "#branding",
+      "#built environment",
+      "#applied research",
+      "#research"
+    ]
+  },
+  {
+    "title": "From OBJ to IRL. Lets talk about AR and bring our models to life!",
+    "tags": [
+      "#ar",
+      "#augmented reality",
+      "#3d modeling"
+    ]
+  },
+  {
+    "title": "Trip to Arthur\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s Tavern, nearby legendary jazz spot (no cover!) for awesome Monday night band",
+    "tags": []
+  },
+  {
+    "title": "Realtime & Multiuser Applications with Firebase",
+    "tags": [
+      "#javascript",
+      "#web",
+      "#p5js"
+    ]
+  },
+  {
+    "title": "Arduino x Unity Workshop",
+    "tags": [
+      "#Arduino",
+      "#unity",
+      "#game design",
+      "#code",
+      "#hack",
+      "#sensors",
+      "#microcontrollers"
+    ]
+  },
+  {
+    "title": "What Is A Scripting Language? ★ Intro to JavaScript ES6 ★",
+    "tags": [
+      "#poetry",
+      "#computer",
+      "#javascript",
+      "#code",
+      "#linguistics"
+    ]
+  },
+  {
+    "title": "Soft Lab Intro",
+    "tags": [
+      "#Soft Lab",
+      "#Soft Fabrication",
+      "#Sewing",
+      "#Wearables"
+    ]
+  },
+  {
+    "title": "",
+    "tags": []
+  },
+  {
+    "title": "Document Your Project",
+    "tags": [
+      "#filmmaking",
+      "#documentary",
+      "#social media"
+    ]
+  },
+  {
+    "title": "Beginning Arduino Part 2",
+    "tags": [
+      "#Arduino",
+      "#electronics",
+      "#physical computing"
+    ]
+  },
+  {
+    "title": "Super Suits: Super Senses",
+    "tags": []
+  },
+  {
+    "title": "Discomfort Design",
+    "tags": [
+      "#discomfort",
+      "#design thinking",
+      "#difficulty",
+      "#conversation",
+      "#applications"
+    ]
+  },
+  {
+    "title": "Building A Universe ",
+    "tags": [
+      "##universe #narrative #story #plot #building #comics #characters #imagination"
+    ]
+  },
+  {
+    "title": "Glitch as Game Mechanic with Phaser.js",
+    "tags": [
+      "#games",
+      "#glitch",
+      "#theory",
+      "#weird fun",
+      "#phaser.js",
+      "#javascript"
+    ]
+  },
+  {
+    "title": "How do you stop the sea rising?",
+    "tags": [
+      "#climate change",
+      "#documentary",
+      "#film",
+      "#travel",
+      "#expedition",
+      "#Bangladesh",
+      "#UN",
+      "#climate",
+      "#migration",
+      "#sea"
+    ]
+  },
+  {
+    "title": "Beyond WiFi & Bluetooth: Using RFMxx modules to go the distance",
+    "tags": [
+      "##wireless #arduino"
+    ]
+  },
+  {
+    "title": "Typing Tones ( O o }===",
+    "tags": [
+      "#itp",
+      "#code",
+      "#p5",
+      "#music"
+    ]
+  },
+  {
+    "title": "Bodies in the Browser",
+    "tags": [
+      "#web",
+      "#kinect",
+      "#interface",
+      "#gesture"
+    ]
+  },
+  {
+    "title": "User-centered practices with apps you already use",
+    "tags": [
+      "#interaction",
+      "#user-centered",
+      "#design"
+    ]
+  },
+  {
+    "title": "Video Editing: Workflow and Aesthetics",
+    "tags": [
+      "#video",
+      "#editing",
+      "#storytelling",
+      "#adobe",
+      "#premiere",
+      "#adobepremiere",
+      "#media"
+    ]
+  },
+  {
+    "title": "The Curious Class: Part 1",
+    "tags": [
+      "#algorithmbubblepopping",
+      "#curiosity",
+      "#thecuriousclass",
+      "#discovery",
+      "#structuredserendipity",
+      "#explorersclub"
+    ]
+  },
+  {
+    "title": "FIELD TRIP TO CONTROL (COME IF U LIKE SYNTHS) ~beep boop",
+    "tags": []
+  },
+  {
+    "title": "Move your body: stretch session",
+    "tags": [
+      "#movement",
+      "#yoga",
+      "#dance",
+      "#play"
+    ]
+  },
+  {
+    "title": "Connecting Weather APIs to Game Design - How You Can Make Weather From Any City Affect Gameplay",
+    "tags": [
+      "#Arduino",
+      "#unity",
+      "#code",
+      "#game design",
+      "#social media",
+      "#api"
+    ]
+  },
+  {
+    "title": "Are you afraid of the shop?",
+    "tags": [
+      "#tools",
+      "#building",
+      "#fabrication",
+      "#fun"
+    ]
+  },
+  {
+    "title": "Things I Made At Pier 9",
+    "tags": [
+      "#Autodesk",
+      "#fabrication",
+      "#wearables",
+      "#CNC",
+      "#3D printing",
+      "#3D scanning",
+      "#work-in-progress"
+    ]
+  },
+  {
+    "title": "Intro to Augmented Reality with Unity",
+    "tags": [
+      "#unity",
+      "#augmented reality",
+      "#mobile",
+      "#android"
+    ]
+  },
+  {
+    "title": "A Discussion on Kaos",
+    "tags": [
+      "#design",
+      "#design think",
+      "#kaos pilots"
+    ]
+  },
+  {
+    "title": "Your Brain is a VR Supercomputer",
+    "tags": [
+      "#Virtual reality",
+      "#neuroscience",
+      "#perception",
+      "#oculus rift"
+    ]
+  },
+  {
+    "title": "Building Kinetic Sculptures",
+    "tags": [
+      "#Kinetic",
+      "#Sculpture",
+      "#Mechanism",
+      "#Prototype",
+      "#Digital Fabrication",
+      "#Paper",
+      "#Testing"
+    ]
+  },
+  {
+    "title": "Interactive Video Art",
+    "tags": [
+      "#video",
+      "#art",
+      "#interactive",
+      "#max/msp"
+    ]
+  },
+  {
+    "title": "MANUSxMACHINA: Fashion in an Age of Technology (Met Field Trip!)",
+    "tags": [
+      "#fashion",
+      "#technology",
+      "#field trip"
+    ]
+  },
+  {
+    "title": "Intro to web scraping with Python",
+    "tags": [
+      "##python #code #programming #web #hacking"
+    ]
+  },
+  {
+    "title": "Grow your own piezoelectric crystal. ",
+    "tags": [
+      "#Materials",
+      "#Electronics",
+      "#Chemistry",
+      "#Light",
+      "#Color",
+      "#Perception"
+    ]
+  },
+  {
+    "title": "VJing 101: Mixing live audio responsive visuals with Resolume ",
+    "tags": [
+      "#resolume",
+      "#performance",
+      "#vjing",
+      "#projection mapping",
+      "#live visuals"
+    ]
+  },
+  {
+    "title": "knotty knots: survival knots and rigging basics",
+    "tags": [
+      "#knots",
+      "#rigging",
+      "#lowtech",
+      "#rope",
+      "#lifehack",
+      "#survivalist"
+    ]
+  },
+  {
+    "title": "FIRESIDE FRIDAY- \\\"THE POLITICS OF TECH IN REMOTE PLACES\\\" ",
+    "tags": [
+      "##tech #remote #spaces #islands"
+    ]
+  },
+  {
+    "title": "Max-Jitter 2 / Kinect project demo",
+    "tags": [
+      "#Max",
+      "#msp",
+      "#jitter",
+      "#openGL",
+      "#realtime",
+      "#generative",
+      "#kinect"
+    ]
+  },
+  {
+    "title": "Physical Interactions with Virtual Space",
+    "tags": [
+      "#vr",
+      "#interaction design",
+      "#pcomp"
+    ]
+  },
+  {
+    "title": "KARAOKE TIME",
+    "tags": [
+      "#karaoke",
+      "#itp",
+      "#social drinking",
+      "#overall being social"
+    ]
+  },
+  {
+    "title": "The Curious Class: Part 2",
+    "tags": [
+      "#algorithmbubblepopping",
+      "#curiosity",
+      "#thecuriousclass",
+      "#discovery",
+      "#phantasmagoria",
+      "#survivalofthecurious",
+      "#structuredserendipity",
+      "#explorersclub"
+    ]
+  },
+  {
+    "title": "Lenticular follow-up practicum",
+    "tags": [
+      "#photography",
+      "#animation",
+      "#lenticular",
+      "#optics",
+      "#3D",
+      "#glasses free 3D"
+    ]
+  },
+  {
+    "title": "Mermaid Parade",
+    "tags": [
+      "#parade",
+      "#off floor",
+      "#fun"
+    ]
+  },
+  {
+    "title": "Expressive Code",
+    "tags": [
+      "#syntax",
+      "#code",
+      "#style",
+      "#formalism"
+    ]
+  },
+  {
+    "title": "Grow your own piezoelectric crystals",
+    "tags": [
+      "#materials",
+      "#electronics",
+      "#chemistry",
+      "#light",
+      "#color",
+      "#perception"
+    ]
+  },
+  {
+    "title": "Sewing with the Serger",
+    "tags": [
+      "#sewing",
+      "#soft fabrication",
+      "#soft lab"
+    ]
+  },
+  {
+    "title": "Documenting Your Projects",
+    "tags": [
+      "#documentation",
+      "#video",
+      "#photography"
+    ]
+  },
+  {
+    "title": "Intro to Supply Chain Management",
+    "tags": [
+      "#supply",
+      "#chain",
+      "#management",
+      "#product",
+      "#design"
+    ]
+  },
+  {
+    "title": "iOS Development 101",
+    "tags": [
+      "#mobile",
+      "#iOS",
+      "#development"
+    ]
+  },
+  {
+    "title": "Move your body: stretch session",
+    "tags": [
+      "#movement",
+      "#yoga",
+      "#dance",
+      "#play"
+    ]
+  },
+  {
+    "title": "If You Are the One?!",
+    "tags": [
+      "#\\'social\\' \\'culture\\'"
+    ]
+  },
+  {
+    "title": "Cyborg Nest: Implanting Technology to Create New Senses",
+    "tags": [
+      "#cyborg",
+      "#wearables",
+      "#senses",
+      "#perception",
+      "#implantables"
+    ]
+  },
+  {
+    "title": "Intro to actuators with the arduino",
+    "tags": [
+      "#motors",
+      "#solenoids",
+      "#electromagnets",
+      "#SMA",
+      "#motion"
+    ]
+  },
+  {
+    "title": "Sound & Movement Playground",
+    "tags": [
+      "#Body",
+      "#Movement",
+      "#Comfort Zone",
+      "#Yoga",
+      "#Sound",
+      "#VR",
+      "#Dance",
+      "#Remix"
+    ]
+  },
+  {
+    "title": "React Natural",
+    "tags": [
+      "#javascript",
+      "#js",
+      "#html",
+      "#css",
+      "#stylus",
+      "#node",
+      "#react",
+      "#web",
+      "#programming",
+      "#app",
+      "#enigma",
+      "#babel",
+      "#browserify",
+      "#es6",
+      "#es2015",
+      "#jasmine",
+      "#jest",
+      "#coding",
+      "#natural",
+      "#development",
+      "#tools"
+    ]
+  },
+  {
+    "title": "Intro to Game Development",
+    "tags": [
+      "#game development",
+      "#unity",
+      "#game design",
+      "#code"
+    ]
+  },
+  {
+    "title": "3D Printing a headphone holder using Autodesk Fusion 360 and Meshmixer",
+    "tags": [
+      "#3d printing",
+      "#3d modelling",
+      "#autodesk fusion",
+      "#meshmixer",
+      "#makerbot",
+      "#ultimaker"
+    ]
+  },
+  {
+    "title": "Archival Storytelling",
+    "tags": []
+  },
+  {
+    "title": "Suminagashi",
+    "tags": [
+      "#paper",
+      "#paint",
+      "#marbling"
+    ]
+  },
+  {
+    "title": "Roll your own MFA (or À la carte Education)",
+    "tags": []
+  },
+  {
+    "title": "Advanced Time Series Mapping Using Torque",
+    "tags": [
+      "#cartodb",
+      "#map",
+      "#time",
+      "#series",
+      "#js",
+      "#javascript",
+      "#torque",
+      "#advanced",
+      "#data",
+      "#geo",
+      "#cartography",
+      "#cartocss"
+    ]
+  },
+  {
+    "title": "Creative Cardboard Construction",
+    "tags": [
+      "#creativity #design#prototype"
+    ]
+  },
+  {
+    "title": "Open Source Cinema",
+    "tags": [
+      "#video",
+      "#structure",
+      "#social"
+    ]
+  },
+  {
+    "title": "Electrochemistry",
+    "tags": [
+      "#electrochemistry",
+      "#batteries",
+      "#education",
+      "#STEAM",
+      "#Make",
+      "#DIY energy"
+    ]
+  },
+  {
+    "title": "Clock Club",
+    "tags": [
+      "#clocks",
+      "#time",
+      "#electronics",
+      "#microcontrollers",
+      "#mechanics"
+    ]
+  },
+  {
+    "title": "From Archive to Environment",
+    "tags": [
+      "#archives",
+      "#3d modeling",
+      "#recreation",
+      "#photogrammetry",
+      "#environments"
+    ]
+  },
+  {
+    "title": "The Politics and Poetics of Agile Product Development with Scrum",
+    "tags": [
+      "#agile",
+      "#development",
+      "#scrum",
+      "#product management",
+      "#software development",
+      "#agile development",
+      "#career skills"
+    ]
+  },
+  {
+    "title": "The Business of Experiences: A Panel Discussion (with Insights from Tough Mudder)",
+    "tags": []
+  },
+  {
+    "title": "10x Command-Line Fu (Mac OSX/Unix)",
+    "tags": [
+      "#terminal",
+      "#bash",
+      "#scripting",
+      "#javascript",
+      "#1337 h4x0r",
+      "#neckbeard"
+    ]
+  },
+  {
+    "title": "Roundtable Discussion:  Getting and Keeping Young Women Interested in STEAM",
+    "tags": [
+      "#discussion",
+      "#women",
+      "#STEM",
+      "#STEAM",
+      "#education"
+    ]
+  },
+  {
+    "title": "Intro To Inflatables",
+    "tags": [
+      "#inflatables",
+      "#diy",
+      "#balloons",
+      "#mylar"
+    ]
+  },
+  {
+    "title": "Intro to 3D Printing & Modeling Techniques",
+    "tags": [
+      "##3Dprinting #3Dscanning #makerbot #123dcatch #sense #intro #fun #slic3r #simplify3D #meshmixer"
+    ]
+  },
+  {
+    "title": "A Sl-hackers ABCs: Zero to Adobe Pro Tips, Tricks, and Shortcuts",
+    "tags": [
+      "#adobe cs",
+      "#adobe cc",
+      "#photoshop",
+      "#illustrator",
+      "#indesign",
+      "#design",
+      "#keyboard shortcuts"
+    ]
+  },
+  {
+    "title": "Super Suits: Wrap Up",
+    "tags": [
+      "#wearables",
+      "#fabrication"
+    ]
+  },
+  {
+    "title": "Programming for Vive",
+    "tags": [
+      "#Virtual Reality",
+      "#Unity3D"
+    ]
+  },
+  {
+    "title": "Making Maps for the Web",
+    "tags": [
+      "#code",
+      "#javascript",
+      "#maps",
+      "#web development"
+    ]
+  },
+  {
+    "title": "Open Video Collective: Hacking Election 2016 (meets Mondays)",
+    "tags": [
+      "#video",
+      "#remix",
+      "#election",
+      "#politics",
+      "#television",
+      "#archives",
+      "#memes",
+      "#viral media",
+      "#media literacy",
+      "#supercuts",
+      "#popcorn.js",
+      "#videogrep",
+      "#captions",
+      "#debates",
+      "#presidential debates"
+    ]
+  },
+  {
+    "title": "Movement Workshop: Kinesthetic Conversations in Crowded Spaces",
+    "tags": [
+      "#movement",
+      "#kinesthetics",
+      "#experience design",
+      "#improvisation",
+      "#dance",
+      "#martial arts",
+      "#fun",
+      "#improv"
+    ]
+  },
+  {
+    "title": "Generative Design in Processing",
+    "tags": [
+      "#processing",
+      "#game of life",
+      "#code",
+      "#cellular automata",
+      "#generative design",
+      "#evolutionary design",
+      "#algorithmic design",
+      "#interactivity"
+    ]
+  },
+  {
+    "title": "If you are going to sweat, make it worth it",
+    "tags": [
+      "#productvalidation",
+      "#designthinking",
+      "#productmarketfit",
+      "#prototyping"
+    ]
+  },
+  {
+    "title": "Git it Together Part 2: Beyond the Repo",
+    "tags": [
+      "#git",
+      "#code",
+      "#terminal"
+    ]
+  },
+  {
+    "title": "Wearable Tech Design",
+    "tags": [
+      "#wearables",
+      "#prototyping",
+      "#hardware",
+      "#ideation",
+      "#concept development"
+    ]
+  },
+  {
+    "title": "Discussion: Self-Care in the Arts, Media, and Tech",
+    "tags": [
+      "#health",
+      "#self-care",
+      "#discussion"
+    ]
+  },
+  {
+    "title": "Custom Keyboard Workshop (Pt I)",
+    "tags": [
+      "#human-centered design",
+      "#pcomp"
+    ]
+  },
+  {
+    "title": "Stop The Game I Have To Check My Facebook Notifications",
+    "tags": [
+      "#game design",
+      "#interaction",
+      "#immersive play",
+      "#design"
+    ]
+  },
+  {
+    "title": "ITP ♥ Data&Society - Whisky Wednesdays Field Trip",
+    "tags": [
+      "#social time",
+      "#data",
+      "#explore",
+      "#danah boyd"
+    ]
+  },
+  {
+    "title": "Kinetic Sculpture Fabrication: Parts Sourcing",
+    "tags": [
+      "#robots",
+      "#parts",
+      "#physical"
+    ]
+  },
+  {
+    "title": "Critical Maker Education",
+    "tags": [
+      "#Education",
+      "#teaching",
+      "#learning"
+    ]
+  },
+  {
+    "title": "Fun with Surveillance Cameras",
+    "tags": [
+      "#video",
+      "#programming",
+      "#camera",
+      "#computervision"
+    ]
+  },
+  {
+    "title": "My Web Page Can Do What?!?",
+    "tags": [
+      "#web",
+      "#javascript",
+      "#p2p",
+      "#midi",
+      "#audio"
+    ]
+  },
+  {
+    "title": "Sea of Commodities: Making In China Show and Tell",
+    "tags": [
+      "#talk",
+      "#make",
+      "#china"
+    ]
+  },
+  {
+    "title": "UX Design Process 101",
+    "tags": [
+      "#design",
+      "#photoshop",
+      "#illustrator",
+      "#sketch",
+      "#lean",
+      "#agile",
+      "#process",
+      "#interaction",
+      "#visual",
+      "#usability testing"
+    ]
+  },
+  {
+    "title": "Participatory Performance 01: small gesture to large-scale production",
+    "tags": [
+      "#performance",
+      "#art",
+      "#participatory practice",
+      "#improvisation",
+      "#movement",
+      "#theory",
+      "#provocation"
+    ]
+  },
+  {
+    "title": "Intro to Inflatables",
+    "tags": [
+      "#inflatables",
+      "#diy",
+      "#mylar",
+      "#hands-on"
+    ]
+  },
+  {
+    "title": "Video Mapping a Big Ass Building Part 2",
+    "tags": [
+      "#video mapping",
+      "#projection"
+    ]
+  },
+  {
+    "title": "Field Trip to International Center for Photography\\'s Re-Opening in the Bowery",
+    "tags": [
+      "#photography",
+      "#field trip",
+      "#free"
+    ]
+  },
+  {
+    "title": "Keyboard Making Workshop (Pt II)",
+    "tags": []
+  },
+  {
+    "title": "Needle Felted Simple Circuits",
+    "tags": [
+      "#felt dryfelting needlefelting",
+      "#STEAM",
+      "#Make",
+      "#conductivity LED\\\\\\\\\\\\\\'s"
+    ]
+  },
+  {
+    "title": "Designing Accessible Websites & Interfaces",
+    "tags": [
+      "#accessibility",
+      "#web design",
+      "#ux",
+      "#design"
+    ]
+  },
+  {
+    "title": "Finding fuel for the design process: human-centered research",
+    "tags": [
+      "#Design Thinking",
+      "#Design Research",
+      "#Ideation"
+    ]
+  },
+  {
+    "title": "A Brief History of Tech, Sex and Fashion",
+    "tags": [
+      "#sex history",
+      "#sex and tech",
+      "#fashion",
+      "#wearables",
+      "#gender",
+      "#history",
+      "#design",
+      "#sex toys",
+      "#underwear",
+      "#hermaphrodites"
+    ]
+  },
+  {
+    "title": "Participatory Performance 02: small gesture to large-scale production",
+    "tags": [
+      "#performance",
+      "#art",
+      "#participatory",
+      "#improvisation",
+      "#movement",
+      "#theory",
+      "#provocation"
+    ]
+  },
+  {
+    "title": "3D Food Printing is fun",
+    "tags": [
+      "#3dfoodprinting",
+      "#3DFP",
+      "#food",
+      "#101",
+      "#fun"
+    ]
+  },
+  {
+    "title": "Learning to teach ",
+    "tags": []
+  },
+  {
+    "title": "Intro to Archetypal Imagery",
+    "tags": [
+      "##narrative #psychology #archetypes #mythology #storytelling"
+    ]
+  },
+  {
+    "title": "Ani-Motion (Workshop)",
+    "tags": [
+      "#Animation #Storytelling #Materials #Sound"
+    ]
+  },
+  {
+    "title": "HTML & CSS - Make a website",
+    "tags": [
+      "#html",
+      "#css",
+      "#web"
+    ]
+  },
+  {
+    "title": "DIY Speaker",
+    "tags": [
+      "#speaker",
+      "#electromagnetism",
+      "#education",
+      "#STEAM",
+      "#Make",
+      "#sound waves",
+      "#resonance"
+    ]
+  },
+  {
+    "title": "Designing for Color Blindness: What it is and why it is important",
+    "tags": [
+      "#processing",
+      "#design"
+    ]
+  },
+  {
+    "title": "ALL CAMP: Friday Fireside",
+    "tags": []
+  },
+  {
+    "title": "Introduction to Cinder - Wild and Wooly Programming in C++",
+    "tags": [
+      "#c++",
+      "#creative coding",
+      "#graphics and interaction"
+    ]
+  },
+  {
+    "title": "A Brief Introduction to Drone Journalism",
+    "tags": [
+      "#drone",
+      "#journalism",
+      "#documentary",
+      "#photography",
+      "#videography",
+      "#photogrammetry",
+      "#phantom",
+      "#ar drone",
+      "#privacy",
+      "#law"
+    ]
+  },
+  {
+    "title": "Observing Periodicity & Sound (with Arduino)",
+    "tags": [
+      "#sound",
+      "#light",
+      "#periodicity",
+      "#frequency",
+      "#phase",
+      "#interference pattern",
+      "#cymatics",
+      "#optics",
+      "#tachometer"
+    ]
+  },
+  {
+    "title": "Coloring with Basquiat (Field Trip)",
+    "tags": []
+  },
+  {
+    "title": "Automate Your Web Development Workflow with Gulp",
+    "tags": [
+      "#task runner",
+      "#gulp",
+      "#javascript",
+      "#automate"
+    ]
+  },
+  {
+    "title": "Traditional stab bookbinding workshop",
+    "tags": [
+      "#Paper",
+      "#DIY",
+      "#Books",
+      "#Craft",
+      "#Design",
+      "#Neo-Luddism"
+    ]
+  },
+  {
+    "title": "Prototyping with Xcode & Swift",
+    "tags": [
+      "#prototyping",
+      "#xcode",
+      "#swift",
+      "#iOS",
+      "#mobile"
+    ]
+  },
+  {
+    "title": "What is Color?",
+    "tags": [
+      "#electromagnetic spectrum",
+      "#education",
+      "#STEAM",
+      "#RGB",
+      "#CMY",
+      "#rods & cones",
+      "#wavelength",
+      "#refraction"
+    ]
+  },
+  {
+    "title": "City for Interaction Research - Designing living system for Public Places",
+    "tags": [
+      "#interaction design",
+      "#user interaction",
+      "#public art",
+      "#performance",
+      "#fun",
+      "#collaboration",
+      "#research",
+      "#production"
+    ]
+  },
+  {
+    "title": "Creating a Budget for Your Interactive Project",
+    "tags": []
+  },
+  {
+    "title": "Prototyping Physical Interactions with Virtual Reality",
+    "tags": [
+      "#physical computing",
+      "#arduino",
+      "#unity",
+      "#vr"
+    ]
+  },
+  {
+    "title": "Finish Projects / Get Ready for Show!",
+    "tags": []
+  },
+  {
+    "title": "Intro to After Effects and Cinema 4D Lite",
+    "tags": [
+      "##aftereffects #cinema4D #motiongraphics #beginner"
+    ]
+  },
+  {
+    "title": "Digital Art Curation in the Real World",
+    "tags": [
+      "#art",
+      "#curation",
+      "#installation",
+      "#media",
+      "#video"
+    ]
+  },
+  {
+    "title": "Open Video Collective: Hacking Election 2016 (meets Mondays)",
+    "tags": [
+      "#video",
+      "#remix",
+      "#election",
+      "#politics",
+      "#television",
+      "#archives",
+      "#memes",
+      "#viral media",
+      "#media literacy",
+      "#supercuts",
+      "#popcorn.js",
+      "#videogrep",
+      "#captions",
+      "#debates",
+      "#presidential debates"
+    ]
+  },
+  {
+    "title": "Datavisualization with D3.js",
+    "tags": [
+      "#D3",
+      "#javaScript",
+      "#data viz"
+    ]
+  },
+  {
+    "title": "End-of-Camp Show & Tell",
+    "tags": []
+  },
+  {
+    "title": "Clean Up & Bon Voyage",
+    "tags": []
+  }
+]

@@ -10,7 +10,7 @@ theme: Sketchnote
 
 ---
 
-![](11th_grade.png)
+![fit](images/11th_grade.png)
 
 ^ Let's jump into it. I like this XKCD comic because I think it speaks to what we're doing here at ITP. Many times I find that the stuff we learn in a weekend is infinitely more useful than the textbooks I read in college. For me, the command line is one of those tools. We neglect it because it seems arcane and scary. Many people think it's for programmers and developers but I want you to know that it can be for you too!
 
@@ -18,8 +18,8 @@ theme: Sketchnote
 
 ## Why am I here? Why practice command-fu?
 
-- You use the command line at work -- servers and interface-less computers
-- You use it to bootstrap your projects yet don't understand it
+- You use the command line at work
+- You use it to bootstrap your code projects
 - Automating tasks you do frequently
 - Anthony seems like a cool guy I wonder what he has to say
 
@@ -29,18 +29,17 @@ theme: Sketchnote
 
 ---
 
-> The command line is incredibly expressive and powerful. It's a fundamental tool that once learned can unlock new levels of productivity and automation.
+> The command line is incredibly expressive and powerful. It can help you be more productive and automate mundane tasks.
 
 ---
 
 ## Our Roadmap
 
-- Standard unix bash commands
-- Pipes and redirection
+- standard unix bash commands
+- chaining, pipes and output redirection
 - alias, shell functions, and your first shell script
-- write a second shell script
-- cron
-- customizing, `PATH`, `.bashrc`, and `.bash_profile`
+- scripting with javascript
+- cron, `.bashrc`, and `.bash_profile`
 - homebrew - the package manager for OSX
 
 ---
@@ -81,9 +80,11 @@ cat - concatenate
 say
 history
 head / tail
-grep
 curl
+time
 watch
+grep
+find
 xargs
 ssh
 ```
@@ -95,6 +96,14 @@ ssh
 ```bash
 $ command --option option_argument x (y z ...)
 ```
+
+---
+
+![fit](images/tar.png)
+
+---
+
+`tar czvf myTarball.tar.gz .`
 
 ---
 
@@ -126,10 +135,6 @@ history
 history
 ```
 
-- UP-ARROW
-- CTRL + R
-- !$, !!
-
 ---
 
 ## `heads` or `tails`
@@ -147,10 +152,12 @@ tail -f camp.txt
 echo foo >> camp.txt
 ```
 
+---
+
 ## `curl`*y* fries
 
 ```bash
-curl buoydontfloat.com/itp-calendar
+curl itpcalendar.herokuapp.com/calendar
 curl wttr.in
 open -a "Google Chrome" http://wttr.in
 curl -I ideas.ted.com
@@ -161,26 +168,7 @@ curl -I ideas.ted.com
 ```bash
 curl -XPOST slack webhook
 curl -o itp-calendar.html http://itp.nyu.edu/camp2016/session/238
-# try recursive downloading a site with wget
-# copy a cURL command from  chrome inspector
-```
-
----
-
-## Chaining commands
-
-```
-$ false || echo "Oops, fail"
-Oops fail
-
-$ true || echo "Will not be printed"
-$  
-
-$ true && echo "Things went well"
-Things went well
-
-$ false ; echo "This will always run"
-This will always run
+# copy a cURL command from chrome inspector
 ```
 
 ---
@@ -204,46 +192,115 @@ $ wget \
 
 ---
 
-# Resources
+## Chaining commands
 
-- https://github.com/jlevy/the-art-of-command-line
+```
+false || echo "Oops, fail"
+# => Oops fail
 
-![background filtered](kid-terminal.gif)
+true || echo "Will not be printed"
+# => 
+
+true && echo "Things went well"
+# => Things went well
+
+false ; echo "This will always run"
+# => This will always run
+```
 
 ---
 
-^
-Intermediate Command-Fu (Terminal for Mac)
+# Output redirection
 
-Alternative working titles:
-A bash-ful good time
-How to look cooler at Starbucks
+```
+<
+# The < will take and send the input from the file on the right to the
+program on the left.
 
-What if I told you the terminal can do just about everything?
-Unfortunately, no one can be told what the Matrix is. You have to see it
-for yourself.
+>
+# The > takes the output of the command on the left, then writes it
+to the file on the right.
 
-We'll take a whirlwind tour of some of the things that command line can
-do for you tomorrow. We'll cover:
+>>
+# The >> takes the output of the command on the left, then appends it
+to the file on the right.
 
-* intermediate commands: history, CTRL-R, say, grep, alias, curl, watch,
-  time
-* up, tab, !$, !!
-* writing your first alias
-* git better
-* |, &&, and output redirection
-* what does `cat` do anyway? and writing your first shell script
-  - function go() { open -a 'Atom' && open -a 'MAMP' &&
-    positive-message.rb }
-* writing your second shell script using javascript
-* ~/.bash_profile and understanding the PATH
-* cron
-* homebrew - a package manager for OSX and why you should've used it
-  yesterday
-  - jq
-  - tree
+|
+# The | takes the output from the command on the left, and "pipes" it to
+the command on the right.
+```
 
-fun things:
-activate power mode
-js callback hell and consider using python or ruby for scripting
-slack webhooks
+---
+
+## pipe
+
+```
+word
+```
+
+---
+
+## `crontab -e`
+
+---
+
+![fit](images/linux-crontab-syntax.jpg)
+
+---
+
+# [fit] Homebrew
+
+## [fit] The missing package manager for OS X
+
+---
+
+![background](images/scissors.gif)
+
+---
+
+## Some homebrew recommendations
+
+Some homebrew recommendations:
+
+```
+brew install wget
+brew install tree
+tree .
+brew install jq
+curl itpcalendar.herokuapp.com/calendar
+
+# faster and more configurable command-line search
+brew install the_silver_searcher
+```
+
+---
+
+## Brew Cask
+
+```
+brew install cask
+brew cask info p5
+brew cask install p5
+open -a 'p5'
+brew cask uninstall p5
+
+brew cask search unity
+brew install unity
+```
+
+---
+
+![fit](images/install-script.png)
+
+---
+
+# Resources
+
+- https://github.com/jlevy/the-art-of-command-line
+- https://github.com/veltman/clmystery
+
+![background filtered](images/kid-terminal.gif)
+
+^ fun things:
+^ activate power mode
+^ js callback hell and consider using python or ruby for scripting

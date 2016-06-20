@@ -1,1 +1,10 @@
-asdf\nasdf
+foo
+FOO
+foo
+FOO
+foo
+FOO
+foo
+FOO
+foo
+FOO

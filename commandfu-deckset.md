@@ -6,6 +6,10 @@ theme: Sketchnote
 
 ## [fit] How to understand more XKCD comics
 
+<br>
+
+### [fit] https://github.com/epylinkn/itp-command-fu
+
 ^ Welcome. Initially a class about intermediate command line things. Now it's a mix of that and things I think you guys might find useful in your workflow.
 
 ---
@@ -151,6 +155,10 @@ Extra Credit:
 tail -f camp.txt
 echo foo >> camp.txt
 ```
+
+---
+
+## [fit] `alias` and your first shell script!
 
 ---
 

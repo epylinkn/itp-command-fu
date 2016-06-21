@@ -99,7 +99,7 @@ $ command --option option_argument x (y z ...)
 
 ---
 
-`tar czvf myTarball.tar.gz .`
+# [fit] `tar czvf myTarball.tar.gz .`
 
 ---
 

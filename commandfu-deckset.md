@@ -10,13 +10,9 @@ theme: Sketchnote
 
 ### [fit] https://github.com/epylinkn/itp-command-fu
 
-^ Welcome. Initially a class about intermediate command line things. Now it's a mix of that and things I think you guys might find useful in your workflow.
-
 ---
 
 ![fit](images/11th_grade.png)
-
-^ Let's jump into it. I like this XKCD comic because I think it speaks to what we're doing here at ITP. Many times I find that the stuff we learn in a weekend is infinitely more useful than the textbooks I read in college. For me, the command line is one of those tools. We neglect it because it seems arcane and scary. Many people think it's for programmers and developers but I want you to know that it can be for you too!
 
 ---
 
@@ -26,10 +22,6 @@ theme: Sketchnote
 - You use it to bootstrap your code projects
 - Automating tasks you do frequently
 - Anthony seems like a cool guy I wonder what he has to say
-
-^ Let's quickly talk about why we're here. I've been programming for a while and I've always found it fun to automate things.
-
-^ I want to give you a sampling of what the command-line is capable of, with an emphasis on things that you guys might use.
 
 ---
 
@@ -195,7 +187,7 @@ $ wget \
      --restrict-file-names=windows \
      --domains blankslate.io \
      --no-parent \
-         www.blankslate.io
+         blankslate.io
 ```
 
 ---
@@ -242,13 +234,23 @@ the command on the right.
 
 ## pipe
 
+"pipe" the output of one command into the input of a second command
+
 ```
-word
+cat ~/.bash_history | grep say | tail -n20
 ```
 
 ---
 
 ## `crontab -e`
+
+```
+# Examples
+*/1 * * * * say 'super duper'
+
+# Use a login shell so that our ~/.bash_profile gets loaded
+*/1 * * * * /bin/bash -lc "/Users/anthony/me/itp/command-fu/03-superbole.js"
+```
 
 ---
 
@@ -271,11 +273,13 @@ word
 Some homebrew recommendations:
 
 ```
+brew update
 brew install wget
+wget https://cdn.rawgit.com/epylinkn/itp-command-fu/master/commandfu.pdf
 brew install tree
 tree .
 brew install jq
-curl itpcalendar.herokuapp.com/calendar
+curl itpcalendar.herokuapp.com/calendar | jq '.[].title'
 
 # faster and more configurable command-line search
 brew install the_silver_searcher
@@ -293,7 +297,7 @@ open -a 'p5'
 brew cask uninstall p5
 
 brew cask search unity
-brew install unity
+brew cask install unity
 ```
 
 ---
@@ -308,7 +312,3 @@ brew install unity
 - https://github.com/veltman/clmystery
 
 ![background filtered](images/kid-terminal.gif)
-
-^ fun things:
-^ activate power mode
-^ js callback hell and consider using python or ruby for scripting

@@ -1,9 +1,22 @@
-# CAPTURE
-
-`youtube-dl` and an example of command line power downloaindg the web; maybe even setting up a syncfile!
+CAPTURE
+=======
 
 first alfred script integration with CL
-
 CL alarm: `sleep 60*6 && say wake the fuck up`
 
-CL repeater: how to repeat tasks... just create a ruby script...
+MISSING THINGS
+--------------
+grep / silver_searcher
+
+which
+understand PATH
+dotfiles - configuration and customization
+
+
+ssh (and the real power of going elsewhere)
+tmux
+
+getting command help
+
+package managers:
+apm install power mode

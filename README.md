@@ -1,6 +1,9 @@
 10x Command Line Fu
 ===================
 
+FOLLOW ALONG HURR:
+https://hackmd.io/CYNgRsBMCMAcwFpYAYCckEBYDGBDVCqApvgsJmCEQKxiRgBmA7JEA===
+
 ## Setup
 
 ```bash

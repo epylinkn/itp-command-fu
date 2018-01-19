@@ -19,9 +19,11 @@ theme: Sketchnote
 ## Why am I here? Why practice command-fu?
 
 - You use the command line at work
+- It keeps popping up in everything I do
 - You use it to bootstrap your code projects
-- Automating tasks you do frequently
+- Automating tasks you do frequently. Repeatability!
 - Anthony seems like a cool guy I wonder what he has to say
+- I want to understand how this expensive laptop I bought really works
 
 ---
 
@@ -103,6 +105,25 @@ $ command --option option_argument x (y z ...)
 
 ---
 
+## Steal an entire site with wget
+
+http://www.linuxjournal.com/content/downloading-entire-web-site-wget
+
+```bash
+$ wget \
+     --recursive \
+     --no-clobber \
+     --page-requisites \
+     --html-extension \
+     --convert-links \
+     --restrict-file-names=windows \
+     --domains blankslate.io \
+     --no-parent \
+         blankslate.io
+```
+
+---
+
 ## `say` cheese
 
 Simple command to make terminal say something.
@@ -157,17 +178,17 @@ echo foo >> camp.txt
 ## `curl`*y* fries
 
 ```bash
-curl itpcalendar.herokuapp.com/calendar
-curl wttr.in
-open -a "Google Chrome" http://wttr.in
-curl -I ideas.ted.com
+curl http://www.simonmarqvard.com/wp-json/wp/v2/posts
+curl -o post.html http://www.buoydontfloat.com/10x-command-line-fu/
+curl -I https://ideas.ted.com
 ```
 
 #### Extra Credit
 
 ```bash
+curl wttr.in
+open -a "Google Chrome" http://nytimes.com
 curl -XPOST slack webhook
-curl -o itp-calendar.html http://itp.nyu.edu/camp2016/session/238
 # copy a cURL command from chrome inspector
 ```
 
@@ -199,7 +220,7 @@ false || echo "Oops, fail"
 # => Oops fail
 
 true || echo "Will not be printed"
-# => 
+# =>
 
 true && echo "Things went well"
 # => Things went well
@@ -242,6 +263,10 @@ cat ~/.bash_history | grep say | tail -n20
 
 ---
 
+![fit](images/linux-crontab-syntax.jpg)
+
+---
+
 ## `crontab -e`
 
 ```
@@ -249,13 +274,8 @@ cat ~/.bash_history | grep say | tail -n20
 */1 * * * * say 'super duper'
 
 # Use a login shell so that our ~/.bash_profile gets loaded
-*/1 * * * * /bin/bash -lc "/Users/anthony/me/itp/command-fu/03-superbole.js"
+*/1 * * * * /bin/bash -lc "/Users/anthony/itp/itp-command-fu/03-superbole.js"
 ```
-
----
-
-![fit](images/linux-crontab-syntax.jpg)
-
 ---
 
 # [fit] Homebrew
@@ -279,7 +299,11 @@ wget https://cdn.rawgit.com/epylinkn/itp-command-fu/master/commandfu.pdf
 brew install tree
 tree .
 brew install jq
-curl itpcalendar.herokuapp.com/calendar | jq '.[].title'
+curl http://www.simonmarqvard.com/wp-json/wp/v2/posts | jq '.[].title'
+
+# the secret to your video-dj dreams
+brew install youtube-dl
+youtube-dl -f18 https://www.youtube.com/watch?v=mDX_eYOKe4s
 
 # faster and more configurable command-line search
 brew install the_silver_searcher
@@ -291,10 +315,10 @@ brew install the_silver_searcher
 
 ```
 brew install cask
-brew cask info p5
-brew cask install p5
-open -a 'p5'
-brew cask uninstall p5
+brew cask info gifrocket
+brew cask install gifrocket
+open -a Gifrocket
+brew cask uninstall gifrocket
 
 brew cask search unity
 brew cask install unity
@@ -303,6 +327,12 @@ brew cask install unity
 ---
 
 ![fit](images/install-script.png)
+
+---
+
+Learn by being curious! Ask yourself:
+
+> Is there a better way to do this on the command-line?
 
 ---
 
